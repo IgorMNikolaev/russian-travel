@@ -4,7 +4,7 @@
     line-height: 1.06;
     margin: 0;
     text-align: center;
-    width: 560px
+    max-width: 560px
 }
 
 @media (max-width : 767px) {
@@ -12,7 +12,7 @@
         font-weight: 900;
         font-size: 32px;
         line-height: 1.09;
-        width: 288px
+        max-width: 288px
     }
 }
 }
