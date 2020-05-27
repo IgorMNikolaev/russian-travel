@@ -1,0 +1,16 @@
+.header__row {
+  display: flex;
+  justify-content: space-between;
+  margin: 28px 48px;
+}
+   
+@media (max-width : 1023px) {
+  .header__row { 
+    margin: 28px 24px;
+  }
+}
+@media (max-width :  767px) {
+  .header__row { 
+    margin: 16px 16px;
+  }   
+}
