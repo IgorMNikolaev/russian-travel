@@ -10,13 +10,13 @@
 }
 
 @media (max-width : 1279px) {
-    .lead {
-        padding-top: 48px;
-        width: 90.625%;
-      }
+  .lead {
+    padding-top: 48px;
+    width: 90.625%;
   }
+}
 @media (max-width : 1023px) {
-    .lead {
-        width: 100%;
-      }
+  .lead {
+    width: 100%;
   }
+}

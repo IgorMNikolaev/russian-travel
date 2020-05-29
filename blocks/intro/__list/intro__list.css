@@ -6,7 +6,3 @@
   font-size: 12px;
   line-height: 1.50;
 }
-  
-  @media (max-width : 767px) {
-      .intro__text {
-    }

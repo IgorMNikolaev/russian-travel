@@ -1,6 +1,7 @@
 @import url(./__list/intro__list.css);
 @import url(./__text/intro__text.css);
 @import url(./__title/intro__title.css);
+@import url(./__numbers/intro__numbers.css);
 
 .intro {
   padding-top: 92px;
@@ -9,22 +10,24 @@
 }
 
 @media (max-width : 1279px) {
-    .intro {
-        width: 67.3828125vw;
-        margin-left: 48px;
-      }
+  .intro {
+    width: 67.3828125vw;
+    margin-left: 48px;
   }
+}
+
 @media (max-width : 1023px) {
-    .intro {
-        padding-top: 88px;
-        width: 93.75vw;
-        margin-left: 24px;
-      }
+  .intro {
+    padding-top: 88px;
+    width: 93.75vw;
+    margin-left: 24px;
   }
+}
+
 @media (max-width : 767px) {
-    .intro {
-        padding-top: 64px;
-        width: 90vw;
-        margin-left: 16px;
+  .intro {
+    padding-top: 64px;
+    width: 90vw;
+    margin-left: 16px;
   }
 }
